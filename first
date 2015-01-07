@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+   <h1> THIS IS A HEADER </h1>
+   <p> This is a paragraph, I suppose.</p>
+   <a href="http://www.ign.com">This is a link</a>
+<body>
+
+</html>
